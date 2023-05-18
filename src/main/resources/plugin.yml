@@ -1,0 +1,6 @@
+name: kedior_plugin
+version: '${project.version}'
+main: com.kedior.plugin.Main
+api-version: 1.19
+author: kedior
+description: kedior's personal plugin for mc 1.19.4 server
